@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.img {
+  height: 70px;
+  width: 70px;
+  border-radius: 20px;
+  margin-bottom: 10px;
+}
+.h1 {
+  font-size: 14px;
+  color: black;
+  font-family: 'Roboto';
+  font-weight: 200;
+  text-align: left;
+}
+.li {
+  width: 40%;
+  list-style: none;
+}
